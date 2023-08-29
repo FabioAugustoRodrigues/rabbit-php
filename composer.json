@@ -1,0 +1,17 @@
+{
+    "name": "fabio/rabbit-php",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fabio\\RabbitPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fábio Augusto Rodrigues",
+            "email": "69022068+FabioAugustoRodrigues@users.noreply.github.com"
+        }
+    ]
+}
